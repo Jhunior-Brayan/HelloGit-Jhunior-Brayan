@@ -1,1 +1,1 @@
-print("Hola ya comenzamos a la practia de git")
+print("Actualización en el fichero 1 ")
